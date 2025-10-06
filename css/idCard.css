@@ -1,0 +1,10 @@
+body{
+    border-collapse: collapse;
+}
+div{
+    border: 1px solid black;
+    width: 350px;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+}
